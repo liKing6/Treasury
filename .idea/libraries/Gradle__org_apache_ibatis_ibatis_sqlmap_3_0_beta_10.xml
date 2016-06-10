@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.ibatis:ibatis-sqlmap:3.0-beta-10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ibatis/ibatis-sqlmap/3.0-beta-10/1a356790905da21efbbfe6961ec4c85f2906d363/ibatis-sqlmap-3.0-beta-10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.ibatis/ibatis-sqlmap/3.0-beta-10/2775940813c0ae1d821305c1cb2a0967c6ab2e79/ibatis-sqlmap-3.0-beta-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
